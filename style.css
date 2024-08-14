@@ -1,0 +1,22 @@
+
+.space{
+    margin-left: 275px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    border: 2px solid black;
+    height:50px;
+    width: 350px;
+}
+
+.mybut1{
+    /* margin-top: 180px; */
+    text-align: center;  
+    
+    /* border: 6px solid green;  */
+}
+button{
+    background-color: lightgray;
+    height: 50px;
+    width: 80px;
+    border-radius: 100px;  
+}
